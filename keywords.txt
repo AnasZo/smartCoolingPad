@@ -1,0 +1,15 @@
+Dht	KEYWORD1
+Fan	KEYWORD1
+ControlPanel	KEYWORD1
+port_init	KEYWORD2	
+timer0_init	KEYWORD2
+DHT11_start	KEYWORD2
+check_response	KEYWORD2
+Receive_data	KEYWORD2
+getAlrmState	KEYWORD2
+setAlrmState	KEYWORD2
+state	KEYWORD2
+cp_setup	KEYWORD2
+getSTstate	KEYWORD2
+setSTstate	KEYWORD2
+BdeB_delay_ms	KEYWORD2
